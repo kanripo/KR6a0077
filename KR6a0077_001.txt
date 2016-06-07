@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:19.050437
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:32
 #+TITLE: 尊上經
 #+PROPERTY: CBETA_ID T01n0077
 #+PROPERTY: ID KR6a0077
@@ -57,9 +57,9 @@ No.77[No.26(166)]¶
 　如是堅牢住，
 　晝夜不捨之。¶
 　是故賢善偈，
-　人當作是觀。』
+　人當作是觀。』」
 #+END_VERSE
-」¶
+¶
 
 「如是，比丘！我持賢善偈而不解義。」
 
