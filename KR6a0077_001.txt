@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:19.050437
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:32
 #+TITLE: 尊上經
 #+PROPERTY: CBETA_ID T01n0077
 #+PROPERTY: ID KR6a0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 077
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6a0077_T_000-0886a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0077_T_001-0886a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.77[No.26(166)]¶
-
- 佛說尊上經¶
+No. 77 [No. 26(166)]¶
+佛說尊上經¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -57,9 +56,9 @@ No.77[No.26(166)]¶
 　如是堅牢住，
 　晝夜不捨之。¶
 　是故賢善偈，
-　人當作是觀。』
+　人當作是觀。』」
 #+END_VERSE
-」¶
+¶
 
 「如是，比丘！我持賢善偈而不解義。」
 
